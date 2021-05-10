@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SmartHome Gesture Control</string>
+    <string name="practice">Practice</string>
+    <string name="replay">Replay</string>
+
+    <string-array name="smart_home_gestures">
+        <item name="selectGesture">Select a Gesture</item>
+        <item name="lightsOn">Turn On Lights</item>
+        <item name="lightsOff">Turn Off Lights</item>
+        <item name="fanOn">Turn On Fan</item>
+        <item name="fanOff">Turn Off Fan</item>
+        <item name="fanUp">Increase Fan Speed</item>
+        <item name="fanDown">Decrease Fan Speed</item>
+        <item name="setThermo">Set Thermostat to specified temperature</item>
+        <item name="num0">0</item>
+        <item name="num1">1</item>
+        <item name="num2">2</item>
+        <item name="num3">3</item>
+        <item name="num4">4</item>
+        <item name="num5">5</item>
+        <item name="num6">6</item>
+        <item name="num7">7</item>
+        <item name="num8">8</item>
+        <item name="num9">9</item>Í
+    </string-array>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
