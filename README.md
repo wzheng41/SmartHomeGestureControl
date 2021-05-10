@@ -4,8 +4,11 @@
   - Practice the same gesture and record the video using cutomize camera app. created using Camera API
   - Push the recorded video to flask server. 
   - flask server code is  included.  
+ 
+ 
+
 #Smart Home Gesture Control Application Part 2
-=================================
+
 
 ## Project Setup and requirements
 
