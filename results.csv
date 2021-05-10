@@ -1,0 +1,18 @@
+Gesture_Video_File_Name,Gesture_Name,Output_Label
+T1-H-0.mp4,1,1
+T1-H-1.mp4,5,5
+T1-H-2.mp4,9,9
+T1-H-3.mp4,5,5
+T1-H-4.mp4,SetThermo,16
+T1-H-5.mp4,5,5
+T1-H-6.mp4,4,4
+T1-H-7.mp4,9,9
+T1-H-8.mp4,3,3
+T1-H-9.mp4,9,9
+T1-H-DecreaseFanSpeed.mp4,5,5
+T1-H-Fan1On.mp4,Increase Fan Speed,13
+T1-H-Fan2Off.mp4,5,5
+T1-H-IncreaseFanSpeed.mp4,SetThermo,16
+T1-H-LightOff.mp4,6,6
+T1-H-LightOn.mp4,FanOff,12
+T1-H-SetThermo.mp4,0,0
